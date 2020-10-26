@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-documents/
 data/
-tmp/
+documents/
+jmlr_2019-master/core/datasets/
 
 *.ipynb_checkpoints
 __pypackages__/
